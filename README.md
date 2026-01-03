@@ -4,12 +4,11 @@
 This project analyzes inventory risk to help businesses identify overstocking, stock-out risks, and supplier concentration issues using Excel dashboards.
 
 ## ⚠️ Risk Indicators Identified
-- Total inventory value and inventory health score
-- Products below reorder level and overstocked products
-- Stock-out risk and overstock value percentages
-- Warehouse utilization comparison
-- Supplier concentration and dependency risk
-- Top products contributing to inventory risk
+- Products operating below reorder levels indicating potential stock-out risk
+- Overstocked items contributing to excess holding costs
+- High dependency on a limited number of suppliers
+- Uneven warehouse utilization affecting inventory efficiency
+- Concentration of inventory value in a small subset of products
 
 ## 🛠 Tools Used
 - Microsoft Excel – Dashboard & risk analysis
@@ -21,10 +20,10 @@ This project analyzes inventory risk to help businesses identify overstocking, s
 ![Dashboard](dashboard.png)
 
 ## 🎯 Decision Support Value
-- Helps reduce stock-out losses
-- Identifies over-reliance on suppliers
-- Improves warehouse inventory allocation
-- Supports data-driven procurement decisions
+- Supports proactive inventory replenishment planning
+- Helps reduce excess inventory and stock-out losses
+- Enables risk-aware supplier and procurement decisions
+- Improves warehouse-level inventory balancing
 
 ## 👤 Author
 Yash Shirture  
