@@ -1,5 +1,9 @@
 # 📦 Inventory Risk Control System (Excel)
 
+## 📊 Dashboard Preview
+
+![Inventory Dashboard](./dashboard.png)
+
 ## 🧩 Problem  
 Raw inventory and supplier data contained duplicates, missing values, and inconsistent product records.  
 Using this data directly would lead to incorrect stock levels, false shortage alerts, and wrong business decisions.
