@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Inventory Dashboard](./dashboard.png)
+![Inventory Dashboard](./Final_dashboard.png)
 
 ## 🧩 Problem  
 Raw inventory and supplier data contained duplicates, missing values, and inconsistent product records.  
