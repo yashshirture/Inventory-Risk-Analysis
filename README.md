@@ -51,4 +51,4 @@ The goal is **trust**.
 
 ## 🧰 Tools Used  
 - **MS Excel** – Cleaning, Mapping, Validation, Reconciliation  
-- **Power BI** – Data Modeling, Relationships, Risk Dashboard  
+ 
